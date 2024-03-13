@@ -10,3 +10,5 @@ Vega [Player/CPU]
 Mr Visom [Player/CPU]
 
 Akuma [CPU]
+
+Allowing to chose the same character
