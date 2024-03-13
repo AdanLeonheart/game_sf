@@ -4,3 +4,7 @@ Ken [player/CPU]
 Blanca [player/CPU]
 Zangief [player/CPU]
 Dalsim [player/CPU]
+
+Balrog [CPU]
+Vega [CPU]
+Mr Visom [CPU]
