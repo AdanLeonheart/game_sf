@@ -5,6 +5,8 @@ Blanca [player/CPU]
 Zangief [player/CPU]
 Dalsim [player/CPU]
 
-Balrog [CPU]
-Vega [CPU]
-Mr Visom [CPU]
+Balrog [Player/CPU]
+Vega [Player/CPU]
+Mr Visom [Player/CPU]
+
+Akuma [CPU]
