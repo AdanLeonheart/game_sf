@@ -1,0 +1,6 @@
+Ryu [player/CPU]
+Chunlee [player/CPU]
+Ken [player/CPU]
+Blanca [player/CPU]
+Zangief [player/CPU]
+Dalsim [player/CPU]
