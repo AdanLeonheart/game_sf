@@ -10,3 +10,5 @@ Vega [Player/CPU]
 Mr Visom [Player/CPU]
 
 Akuma [CPU]
+
+Adding options to chose level of dificult

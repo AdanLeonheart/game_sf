@@ -7,3 +7,5 @@ now it displays Ken and Ryu at the presentation screen
 Adding the text "Street Figther"
 
 Adding the sub title "Champion Edition"
+
+Adding sound track "streetaudioTitle.mp3"
