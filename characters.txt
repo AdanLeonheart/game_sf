@@ -13,4 +13,3 @@ Akuma [CPU]
 
 Adding options to chose level of dificults
 Allowing to chose the same character
-last change with lot of text
